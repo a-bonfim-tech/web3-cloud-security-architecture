@@ -24,3 +24,8 @@ and eligibility creates UX friction and security risk.
 
 ## Outcome
 Lower confusion, safer participation, higher governance trust.
+
+## Context
+
+Related discussion:
+- Snapshot issue #2973 — Add lists of NFTs in treasury detail page
