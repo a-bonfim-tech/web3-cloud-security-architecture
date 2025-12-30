@@ -54,3 +54,10 @@ Content will evolve incrementally and transparently.
 ## Disclaimer
 
 All content is provided for educational and architectural discussion purposes only.
+
+## Community Contributions
+
+- Snapshot: governance UX clarification on voting power semantics  
+  https://github.com/snapshot-labs/snapshot-v1/issues/4338
+
+---
