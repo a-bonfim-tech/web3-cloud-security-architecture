@@ -1,8 +1,8 @@
-# Snapshot Governance UX — Security & Clarity Notes
+# Snapshot Governance UX — Security & Clarity Notes - Operator-focused notes for safer participation
 
 ## Problem
 Recurring confusion around voting power, message signing,
-and eligibility creates UX friction and security risk.
+and eligibility creates UX friction and security risk that directly affects governance participation and trust
 
 ## Risks
 - Blind message signing
@@ -19,7 +19,7 @@ and eligibility creates UX friction and security risk.
 ## Recommendations
 - Inline explanation of voting power calculation
 - Clear distinction between signature and transaction
-- Canonical explorer links instead of embedded metadata
+- Canonical explorer links as default actions instead of embedded metadata
 - Consistent terminology across UI/docs
 
 ## Outcome
